@@ -1,0 +1,8 @@
+"0","#| message: false"
+"0","library(dplyr)"
+"0","library(ggplot2)"
+"0","library(tidyr)"
+"0","library(palmerpenguins)"
+"0",""
+"0","peng <- penguins"
+"0","head(peng)"

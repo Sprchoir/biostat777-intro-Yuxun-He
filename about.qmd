@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+### Education
+
+I received my Bachelor’s degree in Environmental Science and Engineering from Shanghai Jiao Tong University in China, where I developed a strong foundation in environmental modeling and data analysis. Currently, I am pursuing a Master’s degree in Biostatistics at Johns Hopkins University, focusing on the integration of statistical and machine learning approaches for biomedical and genomic research.
+
+### Research Interest
+
+I am passionate about machine learning (ML) and its interdisciplinary applications, particularly in biology and genomics. Specifically, my previous work has involved diffusion models, statistical learning, and computational genomics, where I explored how data-driven models can enhance biological interpretability and improve predictive performance.
